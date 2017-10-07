@@ -1,4 +1,8 @@
 Hello world!
 Hello Again
 Hello Hello Hello
+<<<<<<< HEAD
 100
+=======
+200
+>>>>>>> from x200
